@@ -31,4 +31,5 @@ Build_Release/vim.exe.stackdump
 *.tlog
 *.iobj
 *.ipdb
-*.exp
+*.expnode_modules/
+.env
